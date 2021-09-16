@@ -14,6 +14,7 @@ const Menu = () => {
             <Inbox className="icon"/>
             <Explore className="icon"/>
             <Notifications className="icon"/>
+            
 
             
             
